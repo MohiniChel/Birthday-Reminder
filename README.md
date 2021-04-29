@@ -3,9 +3,9 @@
 Functionalities:-
 
 1. Can record all the birthday's with the following details
-  *Name
-  *Age
-  *Photo
+  * Name
+  * Age
+  * Photo
   
 2. Can show how many birthday's are there today.
 
